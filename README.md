@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Matías Carabella 👾</h1>
 <h3 align="center">Engineering student & back-end developer from Buenos Aires, Argentina 🇦🇷</h3>
 
-- 📬 You can email me on **matias.carabella@outlook.com**
+- 📬 You can email me at **matias.carabella@outlook.com**
 - 👥 Or connect with me on **https://linkedin.com/in/matiascarabella**
 
 <h3 align="left">Languages and Tools:</h3>

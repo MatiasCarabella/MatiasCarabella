@@ -1,6 +1,7 @@
 <h1 align="center">Hi! I'm Matías Carabella 👾</h1>
 <h3 align="center">Engineering student & back-end developer from Buenos Aires, Argentina 🇦🇷</h3>
 
+- 🏢 Currently working as a SSR back-end developer at <a href="https://www.aivo.co/" target="_blank" rel="noreferrer">Aivo</a>
 - 📬 You can email me at **matias.carabella@outlook.com**
 - 👥 Or connect with me on **https://linkedin.com/in/matiascarabella**
 

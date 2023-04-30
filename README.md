@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Matías Carabella 👾</h1>
-<h3 align="center">CS student & Back-end developer from Buenos Aires, Argentina 🇦🇷</h3>
+<h3 align="center">Back-end developer & Computer Science student from Buenos Aires, Argentina 🇦🇷</h3>
 
 - 🏢 Currently working as Back-end developer at <a href="https://www.aivo.co/" target="_blank" rel="noreferrer">**Aivo**</a>
 - 📬 You can email me at **matias.carabella@outlook.com**

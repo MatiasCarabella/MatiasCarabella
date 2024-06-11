@@ -7,33 +7,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" alt="linux"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" alt="typescript"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" alt="php"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="40" alt="laravel"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" alt="java"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="50" alt="linux"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50" alt="javascript"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="50" alt="typescript"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="50" alt="php"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="50" alt="laravel"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="50" alt="java"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="50" alt="spring"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" height="50" alt="mongodb"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="50" alt="docker"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" height="50" alt="jenkins"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" alt="amazonwebservices"  />
 </div>

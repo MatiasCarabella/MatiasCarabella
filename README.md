@@ -7,21 +7,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-<a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="50" alt="linux" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="45" alt="javascript" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="50" alt="typescript" /></a>
-<a href="https://nodejs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" /></a>
-<a href="https://nestjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs" /></a>
-<a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="45" alt="php" /></a>
-<a href="https://laravel.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="45" alt="laravel" /></a>
-<a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="45" alt="java" /></a>
-<a href="https://spring.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="45" alt="spring" /></a>
-<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="45" alt="python" /></a>
-<a href="https://www.cplusplus.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus" /></a>
-<a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql" /></a>
-<a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" height="45" alt="mongodb" /></a>
-<a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="45" alt="docker" /></a>
-<a href="https://www.jenkins.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" height="45" alt="jenkins" /></a>
-<a href="https://aws.amazon.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" alt="amazonwebservices" /></a>
+<a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="48" alt="linux" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="48" alt="javascript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="48" alt="typescript" /></a>
+<a href="https://nodejs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="48" alt="nodejs" /></a>
+<a href="https://nestjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" height="48" alt="nestjs" /></a>
+<a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="48" alt="php" /></a>
+<a href="https://laravel.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="48" alt="laravel" /></a>
+<a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="48" alt="java" /></a>
+<a href="https://spring.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="48" alt="spring" /></a>
+<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="48" alt="python" /></a>
+<a href="https://www.cplusplus.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="48" alt="cplusplus" /></a>
+<a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="48" alt="mysql" /></a>
+<a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" height="48" alt="mongodb" /></a>
+<a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="48" alt="docker" /></a>
+<a href="https://www.jenkins.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" height="48" alt="jenkins" /></a>
+<a href="https://aws.amazon.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="48" alt="amazonwebservices" /></a>
 
 </div>

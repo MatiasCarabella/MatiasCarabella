@@ -15,6 +15,7 @@
 <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="50" alt="php" /></a>
 <a href="https://laravel.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="50" alt="laravel" /></a>
 <a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="50" alt="java" /></a>
+<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="50" alt="python" /></a>
 <a href="https://spring.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="50" alt="spring" /></a>
 <a href="https://www.cplusplus.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus" /></a>
 <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql" /></a>

@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Matías Carabella 👾</h1> <h4 align="center">Professional Back-end Developer & University Student in Computer Science 🏛️ | Based in Buenos Aires, Argentina 🇦🇷</h4>
 
-I'm passionate about AI and solving complex problems with scalable solutions. I specialize in building efficient back-end systems using technologies like Node.js, PHP (Laravel), and Java (Spring). I'm also experienced with containerization (Docker), CI/CD pipelines (Jenkins), and cloud services (AWS).
+I specialize in building efficient back-end systems using technologies like Node.js, PHP (Laravel), and Java (Spring). I'm also experienced with containerization (Docker), CI/CD pipelines (Jenkins), and cloud services (AWS). I'm passionate about AI and solving complex problems with scalable solutions!
 
 - 🚀 Current role: **Integration Developer** at [Aivo](https://www.aivo.co/)
 - 📫 Email: [matias.carabella@outlook.com](mailto:matias.carabella@outlook.com)

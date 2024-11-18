@@ -2,7 +2,7 @@
 
 I specialize in building efficient back-end systems using technologies like Node.js, PHP (Laravel), and Java (Spring). I'm also experienced with containerization (Docker), CI/CD pipelines (Jenkins), and cloud services (AWS). I'm passionate about AI and solving complex problems with scalable solutions!
 
-- 🚀 Current role: **Integration Developer** at [Aivo](https://www.aivo.co/)
+- 🚀 Current role: **SR Integration Developer** at [Aivo](https://www.aivo.co/)
 - 📫 Email: [matias.carabella@outlook.com](mailto:matias.carabella@outlook.com)
 - 🌐 LinkedIn: [Connect with me](https://linkedin.com/in/matiascarabella)
 

@@ -1,6 +1,6 @@
-<h1 align="center">Hi! I'm Matías Carabella 👾</h1> <h4 align="center">Backend Software Engineer 👨🏻‍💻 | University Student in Computer Science 🏛️ | Based in Buenos Aires, Argentina 🇦🇷</h4>
+<h1 align="center">Hi! I'm Matías Carabella 👾</h1> <h4 align="center">Software Engineer 👨🏻‍💻 | University Student in Computer Science 🏛️ | Based in Buenos Aires, Argentina 🇦🇷</h4>
 
-I specialize in building back-end systems and love staying up to date with the latest technologies. I'm passionate about AI and always eager to explore new ideas, whether it’s crafting efficient solutions or diving into the next big innovation!
+I specialize in building back-end applications and love staying up to date with the latest technologies. I'm passionate about AI and always eager to explore new ideas, whether it’s crafting efficient solutions or diving into the next big innovation!
 
 - 🚀 Current role: **Software Engineer** at [Mercado Libre](https://www.mercadolibre.com.ar/)
 - 📫 Email: [matias.carabella@outlook.com](mailto:matias.carabella@outlook.com)

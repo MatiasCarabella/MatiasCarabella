@@ -2,7 +2,7 @@
 
 I specialize in building back-end applications and love staying up to date with the latest technologies. I'm passionate about AI and always eager to explore new ideas, whether it’s crafting efficient solutions or diving into the next big innovation!
 
-- 🚀 Current role: **Software Engineer** at [Mercado Libre](https://www.mercadolibre.com.ar/)
+- 🚀 Current role: **Software Engineer** @ [Mercado Libre](https://investor.mercadolibre.com/)
 - 📫 Email: [matias.carabella@outlook.com](mailto:matias.carabella@outlook.com)
 - 🌐 LinkedIn: [Connect with me](https://linkedin.com/in/matiascarabella)
 

@@ -1,4 +1,11 @@
-<h1 align="center">Hi! I'm Matías Carabella 👾</h1> <h4 align="center">Software Engineer 👨🏻‍💻 | University Student in Computer Science 🏛️ | Based in Buenos Aires, Argentina 🇦🇷</h4>
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hi! I'm Matías Carabella 👾</h1>
+      <h4>Software Engineer 👨🏻‍💻 | University Student in Computer Science 🏛️ | Based in Buenos Aires, Argentina 🇦🇷</h4>
+    </summary>
+  </ul>
+</div>
 
 I specialize in building back-end applications and love staying up to date with the latest technologies. I'm passionate about AI and always eager to explore new ideas, whether it’s crafting efficient solutions or diving into the next big innovation!
 

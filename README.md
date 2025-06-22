@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>Hi! I'm Matías Carabella 👾</h1>
-      <h4>Software Engineer 👨🏻‍💻 | University Student in Computer Science 🏛️ | Based in Buenos Aires, Argentina 🇦🇷</h4>
+      <h4>Software Engineer 👨🏻‍💻 | University Student in Computer Science 🏛️📚 | Based in Buenos Aires, Argentina 🇦🇷</h4>
     </summary>
   </ul>
 </div>
